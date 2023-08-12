@@ -1,0 +1,11 @@
+C++11: Thread retrieved ticket number: 0 started.
+0 Sat Aug 12 05:28:43 2023
+C++11: Thread with ticket number: 0 completed.
+C++11: Thread retrieved ticket number: 1 started.
+1 Sat Aug 12 05:28:46 2023
+C++11: Thread with ticket number: 1 completed.
+C++11: Thread retrieved ticket number: 2 started.
+2 Sat Aug 12 05:28:49 2023
+C++11: Thread with ticket number: 2 completed.
+C++11: Signaling threads to do work.
+C++11: All threads completed.

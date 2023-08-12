@@ -1,0 +1,21 @@
+{
+  "actionButtons": {
+    "defaultColor": "white",
+    "commands": [
+      {
+        "cwd": "/home/coder/project",
+        "name": "Execute Assignment Runs",
+        "color": "white",
+        "singleInstance": true,
+        "command": "make clean_output_files && sh run.sh 1 $(cat .user) 1 7j0Tv && sh run.sh 1 $(cat .user) 3 obnLg && sh run.sh 1 $(cat .user) 20 7TTyz"
+      },
+      {
+        "cwd": "/home/coder/.local/share/code-server/User/coursera/",
+        "name": "Submit",
+        "color": "white",
+        "singleInstance": true,
+        "command": "python3 submit.py python-1-thread,python-3-threads,python-20-threads"
+      }
+    ]
+  }
+}

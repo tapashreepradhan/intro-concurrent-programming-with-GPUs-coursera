@@ -1,0 +1,62 @@
+C++11: Thread retrieved ticket number: 0 started.
+0 Sat Aug 12 05:28:54 2023
+C++11: Thread with ticket number: 0 completed.
+C++11: Thread retrieved ticket number: 1 started.
+1 Sat Aug 12 05:28:57 2023
+C++11: Thread with ticket number: 1 completed.
+C++11: Thread retrieved ticket number: 2 started.
+2 Sat Aug 12 05:29:00 2023
+C++11: Thread with ticket number: 2 completed.
+C++11: Thread retrieved ticket number: 3 started.
+3 Sat Aug 12 05:29:03 2023
+C++11: Thread with ticket number: 3 completed.
+C++11: Thread retrieved ticket number: 4 started.
+4 Sat Aug 12 05:29:06 2023
+C++11: Thread with ticket number: 4 completed.
+C++11: Thread retrieved ticket number: 5 started.
+5 Sat Aug 12 05:29:09 2023
+C++11: Thread with ticket number: 5 completed.
+C++11: Thread retrieved ticket number: 6 started.
+6 Sat Aug 12 05:29:12 2023
+C++11: Thread with ticket number: 6 completed.
+C++11: Thread retrieved ticket number: 7 started.
+7 Sat Aug 12 05:29:15 2023
+C++11: Thread with ticket number: 7 completed.
+C++11: Thread retrieved ticket number: 8 started.
+8 Sat Aug 12 05:29:18 2023
+C++11: Thread with ticket number: 8 completed.
+C++11: Thread retrieved ticket number: 9 started.
+9 Sat Aug 12 05:29:21 2023
+C++11: Thread with ticket number: 9 completed.
+C++11: Thread retrieved ticket number: 10 started.
+10 Sat Aug 12 05:29:24 2023
+C++11: Thread with ticket number: 10 completed.
+C++11: Thread retrieved ticket number: 11 started.
+11 Sat Aug 12 05:29:27 2023
+C++11: Thread with ticket number: 11 completed.
+C++11: Thread retrieved ticket number: 12 started.
+12 Sat Aug 12 05:29:30 2023
+C++11: Thread with ticket number: 12 completed.
+C++11: Thread retrieved ticket number: 13 started.
+13 Sat Aug 12 05:29:33 2023
+C++11: Thread with ticket number: 13 completed.
+C++11: Thread retrieved ticket number: 14 started.
+14 Sat Aug 12 05:29:36 2023
+C++11: Thread with ticket number: 14 completed.
+C++11: Thread retrieved ticket number: 15 started.
+15 Sat Aug 12 05:29:39 2023
+C++11: Thread with ticket number: 15 completed.
+C++11: Thread retrieved ticket number: 16 started.
+16 Sat Aug 12 05:29:42 2023
+C++11: Thread with ticket number: 16 completed.
+C++11: Thread retrieved ticket number: 17 started.
+17 Sat Aug 12 05:29:45 2023
+C++11: Thread with ticket number: 17 completed.
+C++11: Thread retrieved ticket number: 18 started.
+18 Sat Aug 12 05:29:48 2023
+C++11: Thread with ticket number: 18 completed.
+C++11: Thread retrieved ticket number: 19 started.
+19 Sat Aug 12 05:29:51 2023
+C++11: Thread with ticket number: 19 completed.
+C++11: Signaling threads to do work.
+C++11: All threads completed.
